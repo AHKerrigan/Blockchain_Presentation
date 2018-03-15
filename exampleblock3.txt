@@ -1,0 +1,5 @@
+Charlie gest 50PTC
+Alec pays Charlie 10PTC
+Alice pays Alec 20 PTC
+Bob pays Alice 20 PTC
+Charlie pays Bob 30PTC

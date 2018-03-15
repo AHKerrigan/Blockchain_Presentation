@@ -1,0 +1,7 @@
+Alec gets 50PTC 
+Bob gets 50 PTC 
+Alice gets 50PTC 
+Alec pays Alice 20PTC 
+Alice pays Bob 10 PTC 
+Bob pays Alec 30 PTC 
+Alec pays Bob 10 PTC 
