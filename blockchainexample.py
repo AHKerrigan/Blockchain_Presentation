@@ -28,6 +28,7 @@ def file_to_string(filename):
 
 def sha256hash(data):
 	return hashlib.sha256(data.encode()).hexdigest()
+	
 
 if __name__ == "__main__":
 	block1 = file_to_list("exampleblock1.txt")

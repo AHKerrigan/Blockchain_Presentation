@@ -1,5 +1,6 @@
 import hashlib
 
+
 if __name__ == "__main__":
 	flag = False
 	while not flag:
